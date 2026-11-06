@@ -6,7 +6,7 @@ def health_status():
     return {
         "app": "NovaBank",
         "status": "ok",
-        "version": "v1"
+        "version": "v2"
     }
 
 
